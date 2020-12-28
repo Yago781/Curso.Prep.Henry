@@ -1,0 +1,15 @@
+Una variable es un lugar donde se almacena algo para despues usarlo ya sea en una operacion o para mostrar algun dato en especifico en pantalla.
+
+Un string es un tipo de dato el cual contiene una cadena de letras las cuales siempre se deben encerrar entre comillas.
+
+Una funcion es un conjunto de lineas de codigo en el cual se describen una secuencia de ordenes para cumplir una tarea y pueda retornar un valor.
+
+Un argumento es la parte de una funcion en el cual se indica que datos se van a operar.
+
+Return es una palabra clave la cual retorna el valor que este declarado en una variable ya sea dentro de la funcion o por fuera de ella.
+
+La declaracion es la forma como escapan los datos de una funcion.
+
+la sentencia if sirve principalmente para hacer comparaciones entre dos variables y con base en la comparacion nos retorna un resultado.
+
+Los valores booleanos son tipos de variables las cuales manejan los valores que ya se encuentran predeterminados que son true o false.

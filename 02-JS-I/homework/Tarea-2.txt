@@ -1,0 +1,16 @@
+El bucle for se utiliza para no hacer repeticiones innecesarias a la hora de hacer el codigo.
+Primero se usa la palabra clave for, seguida de paréntesis y luego abrir y cerrar llaves.
+Dentro de los paréntesis necesitaremosse necesitan tres cosas. Primero, se debe declarar una variable, 
+lo cual se repetirá el bucle, y este ciclo continuará sucediendo hasta que esta 
+declaración sea false. por ultimo, incrementaremos nuestra variable. 
+
+&& Es un operador lógico, se representa con la letra "Y" que en ingles es ("AND").
+Este evalua expresiones y devuelve verdadero si AMBAS expresiones son true. 
+Si uno (o ambos) de ellos es falso, este operador devolverá false
+
+|| este operador se representa con la letra "Ó" que en ingles es ("OR").
+Determina si una de las expresiones es true. Devuelve true si una (o ambas) 
+de las expresiones es true. Devuelve false si AMBAS expresiones son false
+
+! El último operador lógico esta representado por la palabra ("NO") y en ingles es "NOT" . 
+el operador NOT devuelve el valor opuesto de la expresion dada.
