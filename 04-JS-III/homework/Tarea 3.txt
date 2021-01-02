@@ -1,0 +1,2 @@
+Arrays es un espacio en donde se pueden guardar cualquier tipo de dato ya sea numerico,
+una cadena de texto, un valor booleano, una funcion o el mismo array como tal.
