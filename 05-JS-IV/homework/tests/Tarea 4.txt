@@ -1,0 +1,14 @@
+Un objeto es una unidad donde se pueden almacenar muchas propiedades que luego se pueden
+usar para realizar distintas operaciones.
+
+Las propiedades son como variables que pertenecen al objeto y que pueden contener cualquier
+tipo de datos.
+
+Los metodos son funciones las cuales nos ayudan a realizar ya sean calculos o alguna
+iteracion con el codigo que estemos elaborando.
+
+El bucle for...in se usa para movernos dentro de un arreglo por cada una de sus datos
+o propiedades y asignar un valor.
+
+Notación de puntos vs notación de corchetes son sintaxis que se pueden usar para asignar valores
+a una propiedad y cada una tiene un uso en especial segun la necesidad del programador.
