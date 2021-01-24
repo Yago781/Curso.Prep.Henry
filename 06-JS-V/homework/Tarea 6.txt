@@ -1,0 +1,5 @@
+prototype: actúa como un objeto plantilla que hereda métodos y propiedades.
+
+Constructors (de Clases): un constructor es una subrutina cuya misión
+es inicializar un objeto de una clase. En el constructor se asignan los valores
+iniciales del nuevo objeto.
